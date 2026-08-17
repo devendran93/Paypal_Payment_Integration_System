@@ -1,23 +1,97 @@
-Technology Stack Offered
-Programming Languages: Java
-Frameworks: Spring Boot, Spring Boot JDBC
-Microservices, Circuit Breaker, Eureka Service Registry
-Containerization: Docker, Docker Compose
-AI-Assisted Development: GitHub Copilot, Claude, ChatGPT
-RESTful APIs: JSON, CURL, Postman, SwaggerUI
-Databases: MySQL (RDS)
-Cloud Platforms: AWS (Amazon Web Services) - EC2, RDS, Secrets Manager
-Messaging Technologies: Apache Kafka
-Cache Technologies: Redis
-Logging, Debugging & Troubleshooting: Eclipse, Slf4j with LogBack
-Observability & Monitoring: Grafana, Loki, Prometheus, Distributed Tracing
-Security and Authentication: OAuth2.x, Basic Auth
-Version Control Systems: Git, BitBucket, SourceTree
-Build Tools: Maven
-Application Server: Embedded Tomcat
-Testing Frameworks: JUnit for Unit testing, Mockito for mocking, Code Coverage
-IDEs: Eclipse, DBEaver
-Agile Methodologies: Scrum, Agile Development
-Project management tool: Jira
-Performance Tuning | Design Patterns | Code Review | Data Structures | Algorithms
-Others: Jackson, Lombok, Mobaxterm
+## 🛠️ Technology Stack
+
+### 💻 Programming Languages
+
+* **Java**
+
+### 🚀 Frameworks & Architecture
+
+* **Spring Boot**
+* **Spring JDBC**
+* **Microservices Architecture**
+* **Circuit Breaker**
+* **Eureka Service Registry**
+
+### 🌐 REST APIs & API Tools
+
+* RESTful APIs
+* JSON
+* cURL
+* Postman
+* Swagger / Swagger UI
+* Jackson
+
+### 🗄️ Databases
+
+* **MySQL**
+* **Amazon RDS**
+
+### ☁️ Cloud & DevOps
+
+* **AWS**
+
+  * EC2
+  * RDS
+  * Secrets Manager
+* **Docker**
+* **Docker Compose**
+* Embedded Tomcat
+
+### 📨 Messaging & Caching
+
+* **Apache Kafka**
+* **Redis**
+
+### 📊 Observability & Monitoring
+
+* **Prometheus**
+* **Grafana**
+* **Loki**
+* Distributed Tracing
+* SLF4J
+* Logback
+
+### 🔐 Security & Authentication
+
+* OAuth 2.x
+* Basic Authentication
+
+### 🧪 Testing & Code Quality
+
+* **JUnit**
+* **Mockito**
+* Unit Testing
+* Code Coverage
+* Code Review
+* Performance Tuning
+
+### 🔧 Build & Version Control
+
+* **Maven**
+* **Git**
+* **Bitbucket**
+* **SourceTree**
+
+### 🖥️ Development Tools
+
+* Eclipse
+* DBeaver
+* MobaXterm
+
+### 🤖 AI-Assisted Development
+
+* GitHub Copilot
+* Claude
+* ChatGPT
+
+### 📐 Software Engineering
+
+* Data Structures & Algorithms
+* Design Patterns
+* Microservices
+* Agile / Scrum
+* Jira
+
+### 🏷️ Core Backend Skills
+
+`Java` `Spring Boot` `Spring JDBC` `Microservices` `REST API` `MySQL` `Kafka` `Redis` `AWS` `Docker` `JUnit` `Mockito` `Maven` `Git` `OAuth2` `Prometheus` `Grafana`
